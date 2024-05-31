@@ -1,4 +1,4 @@
-package com.example.aplicativobookstore.viewModel
+package com.example.aplicativobookstore.ui.theme.ui
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
@@ -7,6 +7,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.example.aplicativobookstore.data.Book
+import com.example.aplicativobookstore.viewModel.BookViewModel
 
 
 @Composable

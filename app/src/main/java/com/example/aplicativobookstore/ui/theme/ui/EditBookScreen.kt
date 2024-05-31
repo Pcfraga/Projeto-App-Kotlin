@@ -1,4 +1,4 @@
-package com.example.aplicativobookstore.viewModel
+package com.example.aplicativobookstore.ui.theme.ui
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Button
@@ -8,7 +8,6 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import androidx.navigation.NavController
 import com.example.aplicativobookstore.data.Book
 import com.example.aplicativobookstore.viewModel.BookViewModel
 
