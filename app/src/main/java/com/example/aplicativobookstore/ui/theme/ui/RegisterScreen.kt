@@ -29,6 +29,7 @@ fun RegisterScreen(navController: NavController, userDAO: UserDAO) {
         endY = 1500f
     )
     Box(
+
         modifier = Modifier
             .fillMaxSize()
             .background(brush = backgroundGradient)
